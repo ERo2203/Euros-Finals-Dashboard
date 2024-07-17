@@ -64,6 +64,3 @@ This project has no licenses
 
 Special thanks to the `mplsoccer` library for providing tools to create football data visualizations.
 
----
-
-Feel free to customize this README to better suit your project's specifics and any additional instructions or information you want to include.
