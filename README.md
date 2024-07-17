@@ -52,6 +52,11 @@ The dataset includes detailed event data and player statistics from a football m
 3. **Calculate Metrics**: Compute metrics such as shots, passes, tackles, interceptions, dribbles, and xT values for specified players.
 4. **Visualize Data**: Create bar graphs to display performance metrics.
 
+## Dataset
+
+You can also access dataset from our kaggle 
+link: https://shorturl.at/VaaYI
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
