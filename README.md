@@ -52,15 +52,6 @@ The dataset includes detailed event data and player statistics from a football m
 3. **Calculate Metrics**: Compute metrics such as shots, passes, tackles, interceptions, dribbles, and xT values for specified players.
 4. **Visualize Data**: Create bar graphs to display performance metrics.
 
-## Example
-
-The notebook includes example code to calculate and visualize the performance metrics for the following players:
-- L. Yamal
-- N. Williams
-- J. Bellingham
-- M. Cucurella
-- C. Palmer
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
