@@ -44,6 +44,7 @@ The dataset includes detailed event data and player statistics from a football m
    - Extract and process data from the HTML file.
    - Calculate performance metrics for specified players.
    - Generate visualizations for the analyzed data.
+   - You can generate dashboards for your own data
 
 ## Analysis Steps
 
